@@ -1,16 +1,13 @@
-### Hello there 👋
+### Thanks for stopping by 👋
 
-<!--
-**Ipaye/ipaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ipaye Alameen, a software engineer with over four(4) years of work experience developing frontend and fullstack application using Javascript, React, Vue (and any other variant of JS thats interesting🤖). I have a solid understanding of design patterns, data structures & algorithms. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working my masters Project in CS 🧘🏾
+- 🌱 I’m currently learning ML and JAVA 🤯
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a potter head / Anime fan boy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming Languages 🛠️
+
+![Javascript](https://img.shields.io/badge/Javascript-Advanced-yellow?style=for-the-badge&logo=javascript)
