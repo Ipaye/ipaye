@@ -1,13 +1,8 @@
-### Thanks for stopping by 👋
+### Ekaabo [Welcome!!!] 👋
 
-I'm Ipaye Alameen, a software engineer with over four(4) years of work experience developing frontend and fullstack application using Javascript, React, Vue (and any other variant of JS thats interesting🤖). I have a solid understanding of design patterns, data structures & algorithms. 
+Hi, my name is Ipaye Alameen, and I'm a software engineer with over four (4) years of experience building frontend and fullstack applications with Javascript, React, Vue, and any other form of JS that catches my eye.
 
-- 🔭 I’m currently working my masters Project in CS 🧘🏾
-- 🌱 I’m currently learning ML and JAVA 🤯
+
+- 🔭 I’m currently working on my masters Project in Computer Science 🧘🏾
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a potter head / Anime fan boy
-
-
-## Programming Languages 🛠️
-
-![Javascript](https://img.shields.io/badge/Javascript-Advanced-yellow?style=for-the-badge&logo=javascript)
+- ⚡ Fun fact: I'm a potter head / Anime fan boy / Ocassional Gamer 🎮
