@@ -1,8 +1,11 @@
-### Ekaabo [Welcome!!!] 👋
+###  Ekaabo [Welcome!!!] 👋
 
-Hi, my name is Ipaye Alameen, and I'm a software engineer with over four (4) years of experience building frontend and fullstack applications with Javascript, React, Vue, and any other form of JS that catches my eye.
+Hi, I'm a software engineer with extensive experience in building frontend and full-stack applications using JavaScript, React, Vue, and other JavaScript frameworks.
 
+- 🔭 Currently working as a Frontend Engineer, focusing on developing innovative web solutions
+- 🎓 Completed an M.Sc. in Computer Science and a B.Sc. in Computer Engineering
+- 🚀 Experienced in crafting user-friendly and responsive web pages, integrating with backend systems, and optimizing performance
+- 📚 Passionate about continuous learning and mentoring, with a strong background in teaching and community engagement
+- ⚡ Fun fact: I'm a Potterhead, anime fan, and occasional gamer 🎮
 
-- 🔭 I’m currently working on my masters Project in Computer Science 🧘🏾
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a potter head / Anime fan boy / Ocassional Gamer 🎮
+Feel free to explore my projects and get in touch if you'd like to collaborate!
